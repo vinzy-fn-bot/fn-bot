@@ -1,0 +1,29 @@
+{
+    "addfriend": {
+        "already_friended": "J'ai déjà ce joueur en ami.",
+        "error": "Je n'ai pas pu trouvé le joueur.",
+        "success": "La demande d'ami de {{username}} a été un succès."
+    },
+    "args_missing": "Tu es obligés de donner un argument.",
+    "invite": {
+        "error": "Le joueur n'a pas pu être invité. Sois sûr que je l'ai dans ma liste d'amis.",
+        "is_in_party": "Le joueur est déjà dans le groupe.",
+        "success": "L'invitation de {{username}} a été un succès."
+    },
+    "kick": {
+        "error": "Je n'ai pas pu kick le joueur.",
+        "not_in_party": "Le joueur n'est pas dans le groupe.",
+        "success": "Le kick de {{username}} a été un succès."
+    },
+    "msg_bpchanged": "Le changement de mon skin à {{backpack}} à été un succès.",
+    "msg_emotechanged": "Le changement de mon emote à {{emote}} à été un succès.",
+    "msg_notingroup": "Tu es obligés de rejoindre mon groupe avant de pouvoir utiliser cette commande.",
+    "msg_owneronly": "Seul le propriétaire du bot peut utiliser cette commande.",
+    "msg_pxchanged": "Le changement de mon skin à {{pickaxe}} à été un succès.",
+    "msg_skinchanged": "Le changement de mon skin à {{skin}} à été un succès.",
+    "rmvfriend": {
+        "error": "Je n'ai pas pu enlever le joueur de ma liste d'amis.",
+        "not_friended": "Je n'ai pas en ami ce joueur.",
+        "success": "{{username}} a été retirer de la liste d'amis."
+    }
+}

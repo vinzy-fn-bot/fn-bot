@@ -1,0 +1,18 @@
+{
+  "build_updated": "Le Build ID a �t� mis � jour.",
+  "build_updated_restart": "Le Build ID a �t� mis � jour. Pri�re de red�marrer le bot pour appliquer le nouveau Build ID.",
+  "information": "Information",
+  "initiating": "Initiation en cours...",
+  "initiating_fail": "Echec durant l'initiation du Epic Games Launcher. Les serveurs Epic Games Launcher sont hors-ligne ?",
+  "generating_auth": "A window will now pop up. Login and enter the value of redirectUrl.\nIf you can't use a browser on your platform, you can find help on this projects GitHub.",
+  "login": {
+    "success": "Connect� en tant que {{username}} (ID: {{account_id}}).",
+    "message": "Connexion"
+  },
+  "ready": "Pr�t",
+  "server_status": {
+    "offline": "Le serveur des cosm�tiques est hors-ligne.",
+    "online": "Le serveur est de nouveau en ligne."
+  },
+  "warning": "Attention"
+}

@@ -1,0 +1,19 @@
+{
+    "initiating": "Sto avviando...",
+    "initiating_fail": "Non riesco ad avviare l'Epic Games Launcher. Forse i server di Epic Games sono offline?",
+    "generating_auth": "A window will now pop up. Login and enter the value of redirectUrl.\nIf you can't use a browser on your platform, you can find help on this projects GitHub.",
+    "login": {
+        "message": "Sto entrando...",
+        "success": "Entrato come {{username}} (ID: {{account_id}})."
+    },
+    "server_status": {
+        "offline": "Il server dei cosmetici è offline.",
+        "online": "I server sembrano tornati online."
+    },
+    "build_updated": "Il Build Id è cambiato.",
+    "build_updated_restart": "Il Build Id è cambiato. Riavvia il bot per rendere le modifiche effettive",
+
+    "information": "Informazione",
+    "warning": "Attenzione",
+    "ready": "Pronto"
+}

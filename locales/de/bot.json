@@ -1,0 +1,29 @@
+{
+    "msg_notingroup": "Du musst meiner Gruppe beitreten, um diesen Befehl nutzen zu können.",
+    "msg_owneronly": "Dieser Befehl ist nur für den Bot-Eigentümer zugelassen.",
+    "args_missing": "Du musst mehr Angaben machen.",
+    "msg_skinchanged": "Du hast meinen Skin zu {{skin}} gewechselt.",
+    "msg_emotechanged": "Du hast mein Emote zu {{emote}} gewechselt.",
+    "msg_bpchanged": "Du hast meinen Rucksack zu {{backpack}} gewechselt.",
+    "msg_pxchanged": "Du hast meine Spitzhacke zu {{pickaxe}} gewechselt.",
+    "invite": {
+        "error": "Konnte den Nutzer nicht einladen. Stelle sicher, dass er in meiner Freundesliste ist.",
+        "is_in_party": "Nutzer ist bereits in dieser Gruppe.",
+        "success": "{{username}} wurde erfolgreich eingeladen."
+    },
+    "addfriend": {
+        "error": "Nutzer nicht gefunden.",
+        "already_friended": "Ich bin mit diesem Nutzer bereits befreundet.",
+        "success": "Ich habe erfolgreich eine Freundschaftsanfrage an {{username}} gesendet."
+    },
+    "rmvfriend": {
+        "error": "Konnte den Nutzer nicht entfernen.",
+        "not_friended": "Ich bin nicht mit diesem Nutzer befreundet.",
+        "success": "Ich habe erfolgreich {{username}} aus meinen Freunden entfernt."
+    },
+    "kick": {
+        "error": "Nutzer konnte nicht gekickt werden.",
+        "not_in_party": "Der Nutzer ist nicht in dieser Gruppe.",
+        "success": "{{username}} wurde erfolgreich gekickt."
+    }
+}

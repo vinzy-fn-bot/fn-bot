@@ -1,0 +1,12 @@
+{
+    "Server": {
+        "baseurl_missing": "[Error] Server-URL fehlt."
+    },
+    "Fortnite": {
+        "init_failed": "Epic Games Launcher konnte nicht vorbereitet werden.",
+        "login_failed": "Login fehlgeschlagen. Das kann in folgenden Fällen passieren: Die Server sind offline, deine Accountdaten sind falsch, dein Account ist gebannt oder du hast zu oft in kurzer Zeit versucht, dich anzumelden."
+    },
+    "Config": {
+        "invalid_format": "Mit deiner Konfigurationsdatei stimmt etwas nicht. Bitte rekonfiguriere sie, indem du den Skript mit dem Argument {{arg}} startest. Öffne einfach ein Terminal und die Datei, aber mit {{arg}} dran."
+    }
+}

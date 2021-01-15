@@ -1,0 +1,19 @@
+{
+    "initiating": "Initiating...",
+    "initiating_fail": "Cannot initialize Epic Games Launcher. Maybe Epic Games servers are offline?",
+    "generating_auth": "A window will now pop up. Login and enter the value of redirectUrl.\nIf you can't use a browser on your platform, you can find help on this projects GitHub.",
+    "login": {
+        "message": "Logging in...",
+        "success": "Logged in as {{username}} (ID: {{account_id}})."
+    },
+    "server_status": {
+        "offline": "Cosmetic server is offline.",
+        "online": "Server seems to be back online."
+    },
+    "build_updated": "Build ID has been updated.",
+    "build_updated_restart": "Build ID has been updated. Please restart the bot so changes can take effect.",
+
+    "information": "Information",
+    "warning": "Warning",
+    "ready": "Ready"
+}

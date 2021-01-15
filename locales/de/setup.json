@@ -1,0 +1,31 @@
+{
+    "welcome": "Willkommen zum Setup von {{project_name}}. Es werden nun einige Informationen abgefragt, die notwendig sind, um den Bot starten zu können.",
+    "email_msg": "Email-Adresse des Bot-Accounts",
+    "password_msg": "Passwort des Bot-Accounts",
+    "2fa": {
+        "msg": "2-Faktor-Token des Bot-Accounts (dieses Feld kann übersprungen werden, wenn der Bot-Account keine 2-Faktor-Authentifizierung aktiviert hat)",
+        "invalid": "Ungültiger 2-Faktor-Token."
+    },
+    "cosmetic_server": {
+        "msg": "Link zum Item-Server",
+        "invalid": "Ungültiger Server.",
+        "success": "Verbindung mit Server erfolgreich hergestellt."
+    },
+    "party_privacy": {
+        "msg": "Standardmäßige Privatsphäre der Gruppe des Bots",
+        "msg_current": "Standardmäßige Privatsphäre der Gruppe des Bots (aktuell: {{v}})",
+        "choices": {
+            "private": "Privat",
+            "friends": "Nur Freunde",
+            "public": "Öffentlich",
+            "current": "(aktuell {{v}})"
+        }
+    },
+    "accept_friends_msg": "Alle Freundschaftsanfragen annehmen",
+    "auto_sit_out_msg": "Automatisch aussetzen, wenn alle Spieler bereit sind",
+    "allow_invites_msg": "Erlauben, den Bot einzuladen",
+    "bot_owner_msg": "Name des Eigentümers des Bots (Gib den Epic Games-Namen des Benutzers ein, der den Bot verwalten darf)",
+    "fetching_build" : "Lade Build-Informationen (dies kann eine Zeit dauern)...",
+    "fetching_build_err" : "Error beim Laden der Build-Informationen: {{err}}",
+    "done": "Setup abgeschlossen! Du kannst nun den Bot starten."
+}

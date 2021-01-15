@@ -1,0 +1,31 @@
+{
+    "welcome": "Welcome to the {{project_name}} setup. You'll now have to enter some information that is needed to be able to start the bot.",
+    "email_msg": "Bot account email",
+    "password_msg": "Bot account password",
+    "2fa": {
+        "msg": "Bot account 2FA token (if the bot account has 2FA enabled, otherwise you can just skip this field)",
+        "invalid": "Invalid 2FA token"
+    },
+    "cosmetic_server": {
+        "msg": "Cosmetic server url",
+        "invalid": "Invalid server.",
+        "success": "Successfully connected to cosmetic server."
+    },
+    "party_privacy": {
+        "msg": "Default party privacy",
+        "msg_current": "Default party privacy (currently: {{v}})",
+        "choices": {
+            "private": "Private",
+            "friends": "Friends only",
+            "public": "Public",
+            "current": "(currently {{v}})"
+        }
+    },
+    "accept_friends_msg": "Accept all friend requests",
+    "allow_invites_msg": "Allow to invite the bot",
+    "auto_sit_out_msg": "Automatically sit out once all party members are ready",
+    "bot_owner_msg": "Bot owner name (provide the Epic Games name of the account that you want to be able to manage the bot)",
+    "fetching_build" : "Loading build information...",
+    "fetching_build_err" : "An error occured while loading build information: {{err}}",
+    "done": "Setup completed! You can now start the bot."
+}

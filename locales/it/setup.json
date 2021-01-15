@@ -1,0 +1,31 @@
+{
+    "welcome": "Benvenuto al setup di {{project_name}}. Ora dovrai inserire qualche informazione che è necessaria per avviare il bot.",
+    "email_msg": "Email dell'account del bot",
+    "password_msg": "Password dell'account del bot",
+    "2fa": {
+        "msg": "Token 2FA del bot (se l'account del bot ha il 2FA, altrimenti salta questo campo)",
+        "invalid": "Token 2FA invalido"
+    },
+    "cosmetic_server": {
+        "msg": "URL del server dei cosmetici",
+        "invalid": "Server invalido.",
+        "success": "Connesso al server dei cosmetici con successo."
+    },
+    "party_privacy": {
+        "msg": "Privacy del party predefinita",
+        "msg_current": "Privacy del party predefinita (al momento: {{v}})",
+        "choices": {
+            "private": "Privata",
+            "friends": "Solo amici",
+            "public": "Publica",
+            "current": "(al momento: {{v}})"
+        }
+    },
+    "accept_friends_msg": "Accetta tutte le richieste di amicizia",
+    "allow_invites_msg": "Allow to invite the bot",
+    "auto_sit_out_msg": "Automatically sit out once all party members are ready",
+    "bot_owner_msg": "Nome del proprietario del bot (dai il nome Epic Games dell'account che vuoi che è in grado di modificare il bot)",
+    "fetching_build" : "Caricando le informazioni della build...",
+    "fetching_build_err" : "Un errore è caricato mentre caricavo le informazioni della build: {{err}}",
+    "done": "Setup completato! Ora puoi avviare il bot."
+}

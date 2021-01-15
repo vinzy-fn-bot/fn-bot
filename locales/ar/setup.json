@@ -1,0 +1,31 @@
+{
+    "welcome": "اهلا بك  {{project_name}}  تثبيت. يجب عليك اضافه بعض المعلومات لتشغيل البوت.",
+    "email_msg": "الايميل الخاص بي حساب البوت ",
+    "password_msg": "الباسورد الخاص بي حساب البوت",
+    "2fa": {
+        "msg": "كود 2fa خاص بي البوت (لو مفعل خاصيه 2fa, غير مفعله؟ تخطي هذا)",
+        "invalid": "كود 2fa حاطئ"
+    },
+    "cosmetic_server": {
+        "msg": "عنوان سيرفر الاسكنات",
+        "invalid": "سيرفر خاطئ.",
+        "success": "تم الاتصال بي سيرفر الاسكنات بنجاح."
+    },
+    "party_privacy": {
+        "msg": "خصائص المجموعه الافتراضيه",
+        "msg_current": "خصائص المجموعه الافتراضيه (الحالي: {{v}})",
+        "choices": {
+            "private": "خاص",
+            "friends": "الاصدقاء فقط",
+            "public": "عامه",
+            "current": "(الحالي {{v}})"
+        }
+    },
+    "accept_friends_msg": "قبول جميع طلبات الصداقه",
+    "allow_invites_msg": "Allow to invite the bot",
+    "auto_sit_out_msg": "Automatically sit out once all party members are ready",
+    "bot_owner_msg": "اسم صاحب البوت (اسم صاحب البوت القادر علي استخدام الأوامر)",
+    "fetching_build" : "تحميل معلومات البنية...",
+    "fetching_build_err" : "حدث خطأ أثناء تحميل معلومات البنية: {{err}}",
+    "done": "تم التثبيت بنجاح يمكنك استخدام البوت"
+}

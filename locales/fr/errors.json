@@ -1,0 +1,12 @@
+{
+  "Config": {
+    "invalid_format": "Ton fichier config.json est invalide. Pri�re de le reconfigurer en ajoutant {{arg}}. Simplement ouvre le Terminal, lance le script et ajoute {{arg}}."
+  },
+  "Fortnite": {
+    "init_failed": "Echec dans l'initiation du Epic Games Launcher.",
+    "login_failed": "Echec de la connexion. Ca peut �tre du � plusieurs choses: Les serveurs sont hors-ligne, ton compte est bannit, ton email et mot de passe sont faux ou tu as essayer de te connecter trop de fois dans un petit interval de temps."
+  },
+  "Server": {
+    "baseurl_missing": "[Erreur] URL du serveur manquant."
+  }
+}

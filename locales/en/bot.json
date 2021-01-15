@@ -1,0 +1,29 @@
+{
+    "msg_notingroup": "You must join my group to be able to use this command.",
+    "msg_owneronly": "Only the bot owner is allowed to use this command.",
+    "args_missing": "You must provide an argument.",
+    "msg_skinchanged": "Successfully changed my skin to {{skin}}.",
+    "msg_emotechanged": "Successfully changed my emote to {{emote}}.",
+    "msg_bpchanged": "Successfully changed my backpack to {{backpack}}.",
+    "msg_pxchanged": "Successfully changed my pickaxe to {{pickaxe}}.",
+    "invite": {
+        "error": "Could not invite the user. Make sure that I have them in my friend list.",
+        "is_in_party": "User is already in this party.",
+        "success": "Successfully invited {{username}}."
+    },
+    "addfriend": {
+        "error": "Couldn't find user.",
+        "already_friended": "I'm already friended to this user.",
+        "success": "Successfully sent friend request to {{username}}."
+    },
+    "rmvfriend": {
+        "error": "Couldn't remove user.",
+        "not_friended": "I'm not friended to this user.",
+        "success": "Successfully removed {{username}}."
+    },
+    "kick": {
+        "error": "Couldn't kick user.",
+        "not_in_party": "User is not in this party.",
+        "success": "Successfully kicked {{username}}."
+    }
+}

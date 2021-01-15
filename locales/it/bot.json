@@ -1,0 +1,29 @@
+{
+    "msg_notingroup": "Devi entrare nel gruppo per usare questo comando.",
+    "msg_owneronly": "Solo il proprietario del bot può usare questo comando.",
+    "args_missing": "Devi dare un argomento.",
+    "msg_skinchanged": "Cambiata il mio costume a {{skin}}.",
+    "msg_emotechanged": "Cambiata il mio balletto a {{emote}}.",
+    "msg_bpchanged": "Cambiato il mio corsaletto a {{backpack}}.",
+    "msg_pxchanged": "Cambiato il mio piccone a {{pickaxe}}.",
+    "invite": {
+        "error": "Non riesco ad invitare l'utente. Assicurati che c'è l'ho nella lista amici.",
+        "is_in_party": "Membro già nel party.",
+        "success": "Invitato {{username}} con successo."
+    },
+    "addfriend": {
+        "error": "Non riesco a trovare l'utente.",
+        "already_friended": "Sono già amico con quell'utente.",
+        "success": "Inviata la richiesta a {{username}}."
+    },
+    "rmvfriend": {
+        "error": "Non riesco a rimuovere l'utente.",
+        "not_friended": "Non ho l'amicizia con questo utente.",
+        "success": "Rimosso {{username}} con successo."
+    },
+    "kick": {
+        "error": "Non riesco a rimuovere l'utente.",
+        "not_in_party": "L'utente non è nel party.",
+        "success": "Rimosso {{username}} con successo."
+    }
+}

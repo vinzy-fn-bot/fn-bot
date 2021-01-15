@@ -1,0 +1,31 @@
+{
+    "welcome": "Bine ați venit la configurația {{project_name}}. Acum va trebui să introduceți câteva informații necesare pentru a putea porni botul.",
+    "email_msg": "E-mail-ul contului de bot",
+    "password_msg": "Parola contului de bot",
+    "2fa": {
+        "msg": "Token-ul 2FA al contului de bot (dacă contul bot are 2FA activat, altfel puteți sări peste acest câmp)",
+        "invalid": "Token 2FA invalid"
+    },
+    "cosmetic_server": {
+        "msg": "URL-ul serverului de cosmetice",
+        "invalid": "Server invalid.",
+        "success": "Conectat cu succes la serverul de cosmetice."
+    },
+    "party_privacy": {
+        "msg": "Confidențialitate default pentru party-uri",
+        "msg_current": "Confidențialitate default pentru party (curent: {{v}})",
+        "choices": {
+            "private": "Privat",
+            "friends": "Numai pentru prieteni",
+            "public": "Public",
+            "current": "(curent: {{v}})"
+        }
+    },
+    "accept_friends_msg": "Accept toate solicitările de prietenie",
+    "allow_invites_msg": "Permite invitarea botul",
+    "auto_sit_out_msg": "Trec pe modul Sit out odată ce toţi membrii party-ului sunt pregătiţi",
+    "bot_owner_msg": "Numele proprietarului botului (Daţi numele Epic Games al contului pe care doriți să poată gestiona botul)",
+    "fetching_build" : "Se încarcă informațiile build-ului...",
+    "fetching_build_err" : "A apărut o eroare la încărcarea informațiilor build-ului: {{err}}",
+    "done": "Configurare finalizată! Acum puteți porni botul."
+}

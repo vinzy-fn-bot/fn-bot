@@ -1,0 +1,19 @@
+{
+    "initiating": "يبداء...",
+    "initiating_fail": "من الممكن ان السيرفرات مغلقه  Epic Games Launcher لا يمكن تهيئه",
+    "generating_auth": "A window will now pop up. Login and enter the value of redirectUrl.\nIf you can't use a browser on your platform, you can find help on this projects GitHub.",
+    "login": {
+        "message": "تسجيل الدخول...",
+        "success": "تم تسجيل الدخول الي  {{username}} (ID: {{account_id}})."
+    },
+    "server_status": {
+        "offline": "سيرفر الاسكن غير متوفر في الوقت الحالي",
+        "online": "يبدو ان السيرفرات متاحه الان"
+    },
+    "build_updated": "تم تحديث معرف البناء.",
+    "build_updated_restart": "تم تحديث معرف البناء. من فضلك قم بتحديث البوت للتفعيل",
+
+    "information": "معلومات",
+    "warning": "تحذير",
+    "ready": "جاهز"
+}

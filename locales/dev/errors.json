@@ -1,0 +1,12 @@
+{
+    "Server": {
+        "baseurl_missing": "[Error] Missing server base url."
+    },
+    "Fortnite": {
+        "init_failed": "Could not initialize Epic Games Launcher.",
+        "login_failed": "Login failed. That can happen in the following cases: The servers are offline, your account is banned, the account data is wrong or you've tried sign in too often within a short time."
+    },
+    "Config": {
+        "invalid_format": "Your config.json is invalid. Please reconfigure it by adding {{arg}}. Just open a Terminal, run the script and add {{arg}}."
+    }
+}

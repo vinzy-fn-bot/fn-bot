@@ -1,0 +1,19 @@
+{
+    "initiating": "Vorbereiten...",
+    "initiating_fail": "Vorbereitung des Launchers fehlgeschlagen. Sind die Server vielleicht offline?",
+    "generating_auth": "Ein Fenster öffnet sich jetzt. Melde dich an und füge den Wert des Parameters redirectUrl zum Schluss hier ein.\nWenn auf dieser Plattform kein Browser funktioniert, kannst du über GitHub in der Readme Hilfe finden.",
+    "login": {
+        "message": "Einloggen...",
+        "success": "Eingeloggt als {{username}} (ID: {{account_id}})."
+    },
+    "server_status": {
+        "offline": "Der Item-Server ist offline.",
+        "online": "Der Server ist nun wieder online."
+    },
+    "build_updated": "Die Build-ID wurde aktualisiert.",
+    "build_updated_restart": "Die Build-ID wurde aktualisiert. Bitte starte den Bot neu, um die Änderungen zu übernehmen.",
+
+    "information": "Information",
+    "warning": "Warnung",
+    "ready": "Bereit"
+}

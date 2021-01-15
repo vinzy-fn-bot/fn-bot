@@ -1,0 +1,31 @@
+{
+    "2fa": {
+        "invalid": "Le token 2FA est faux",
+        "msg": "Le token 2FA du compte de ton bot (si ce dernier � la 2FA activ�, sinon passe cette �tape)"
+    },
+    "accept_friends_msg": "Accepter toutes les demandes d'amis",
+    "allow_invites_msg": "Allow to invite the bot",
+    "auto_sit_out_msg": "Automatically sit out once all party members are ready",
+    "bot_owner_msg": "Le nom du propri�taire du bot (donne le Epic Games username de l'utilisateur qui va �tre en mesure de controler le bot)",
+    "cosmetic_server": {
+        "invalid": "Serveur Invalide.",
+        "msg": "URL du serveur des cosm�tiques",
+        "success": "La connexion au serveur des cosm�tiques fut un succ�s."
+    },
+    "done": "Setup termin�! Tu peux maintenant d�marrer le bot.",
+    "email_msg": "L'email du compte de ton bot",
+    "fetching_build": "Chargement des informations sur le build...",
+    "fetching_build_err": "Une erreur s'est produite durant le chargement des informations sur le build: {{err}}",
+    "party_privacy": {
+        "choices": {
+            "current": "(actuellement {{v}})",
+            "friends": "Amis seulement",
+            "private": "Priv�e",
+            "public": "Publique"
+        },
+        "msg": "Confidentialit� du groupe par d�faut",
+        "msg_current": "Confidentialit� du groupe par d�faut (actuellement: {{v}})"
+    },
+    "password_msg": "Le mot de passe du compte de ton bot",
+    "welcome": "Bienvenue au {{project_name}} setup. Tu vas avoir besoin de rentrer quelques informations pour pouvoir lancer le bot."
+}

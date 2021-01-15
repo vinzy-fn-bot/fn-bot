@@ -1,0 +1,29 @@
+{
+    "msg_notingroup": "Trebuie să vă alăturați grupului meu pentru a putea utiliza această comandă.",
+    "msg_owneronly": "Numai proprietarul botului are voie să utilizeze această comandă.",
+    "args_missing": "Trebuie să dai un argument.",
+    "msg_skinchanged": "A fost schimbat cu succes skin-ul în {{skin}}.",
+    "msg_emotechanged": "A fost schimbat cu succes emote-ul în {{emote}}.",
+    "msg_bpchanged": "A fost schimbat cu succes backpack-ul în {{backpack}}.",
+    "msg_pxchanged": "A fost schimbat cu succes pickaxe-ul în {{pickaxe}}.",
+    "invite": {
+        "error": "Nu s-a putut invita utilizatorul. Asigurați-vă că îl am în lista de prieteni.",
+        "is_in_party": "Utilizatorul este deja în acest party.",
+        "success": "{{username}} invitat cu succes."
+    },
+    "addfriend": {
+        "error": "Nu s-a putut găsi utilizatorul.",
+        "already_friended": "Sunt deja prieten cu acest utilizator.",
+        "success": "Trimitere cu succes a unei cereri de prietenie către {{username}}."
+    },
+    "rmvfriend": {
+        "error": "Nu s-a putut elimina prietenul.",
+        "not_friended": "Nu sunt prieten cu acest utilizator.",
+        "success": "{{username}} a fost eliminat cu succes."
+    },
+    "kick": {
+        "error": "Nu s-a putut da kick utilizatorul.",
+        "not_in_party": "Utilizatorul nu este in party.",
+        "success": "{{username}} a fost dat afară cu succes."
+    }
+}

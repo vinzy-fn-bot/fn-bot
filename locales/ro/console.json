@@ -1,0 +1,19 @@
+{
+    "initiating": "Inițiere...",
+    "initiating_fail": "Nu se poate iniția Epic Games Launcher-ul. Poate serverele Epic Games sunt offline?",
+    "generating_auth": "O fereastră va apărea acum. Autentifică-te și introdu valoarea redirectUrl.\nDacă nu poți folosi un browser pe platforma ta, poți găsi ajutor pe GitHub-ul acestui proiect.",
+    "login": {
+        "message": "Autentificare...",
+        "success": "Autentificat ca {{username}} (ID: {{account_id}})."
+    },
+    "server_status": {
+        "offline": "Serverul de cosmetice este offline.",
+        "online": "Serverul pare să fie din nou online."
+    },
+    "build_updated": "ID-ul Build a fost actualizat.",
+    "build_updated_restart": "ID-ul Build a fost actualizat. Vă rugăm să reporniți botul astfel încât modificările pot produce efecte.",
+
+    "information": "Informație",
+    "warning": "Avertizare",
+    "ready": "Pregătit"
+}
