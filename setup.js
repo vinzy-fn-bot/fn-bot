@@ -10,7 +10,7 @@ function convertOldConfig (cfg) {
       acceptallfriends: true,
       owner: null
     },
-    server_url: '',
+    server_url: 'https://fnapi.terax235.com',
     preferred_language: 'en',
     auth: null
   }
@@ -90,7 +90,7 @@ prompt([{
         suffix: ':',
         default: function () {
           if (config.server_url) return config.server_url
-          return ''
+          return 'https://fnapi.terax235.com'
         }
       },
       {
