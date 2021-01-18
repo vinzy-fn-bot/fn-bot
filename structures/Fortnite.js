@@ -45,9 +45,9 @@ exports.init = async function (options) {
       auth = auth.split('?code=')[1].split('"')[0]
     };
     const exchangeCode = await getExchangeCode(auth)
-    client = new Client({ auth: { exchangeCode }, status: 'FN Lobby Bot by Terax235', kairos: kairosConfig })
+    client = new Client({ auth: { exchangeCode }, status: 'FN Lobby Bot by Vinzy', kairos: kairosConfig })
   } else {
-    client = new Client({ auth: { deviceAuth: options.auth }, status: 'FN Lobby Bot by Terax235', kairos: kairosConfig })
+    client = new Client({ auth: { deviceAuth: options.auth }, status: 'FN Lobby Bot by Vinzy', kairos: kairosConfig })
   };
   client.on('deviceauth:created', (credentials) => {
     if (!options.auth || credentials.accountId !== options.auth.accountId) {
