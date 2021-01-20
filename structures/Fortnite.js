@@ -4,6 +4,7 @@ const { prompt } = require('inquirer')
 const opn = require('opn')
 const fs = require('fs')
 
+
 const { i18next } = require('./i18next.js')
 
 const ENDPOINTS = {
