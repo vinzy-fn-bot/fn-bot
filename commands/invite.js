@@ -1,4 +1,5 @@
 const { i18next } = require('../structures/i18next.js')
+const Server = require('./structures/Server.js')
 
 exports.run = async (FM, args, reply, lng, FN) => {
   if (!args[0]) {
