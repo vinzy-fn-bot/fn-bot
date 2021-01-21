@@ -1,3 +1,5 @@
+const Server = require('./structures/Server.js')
+
 exports.run = async (FM, args, reply, lng, FN) => {
   if (FN.party && FN.party.me) {
     if (FN.party.me.meta.schema.GameReadiness_s === 'SittingOut') {
